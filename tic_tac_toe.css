@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+td {
+  border: 1px #ccc solid;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding: 5px;
+}
+
+table {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding: 0;
+}
+
+.imageX {
+  background-image: url("X.png");
+  background-size: cover;
+
+}
+
+.imageO {
+  background-image: url("O.png");
+  background-size: cover;
+}
